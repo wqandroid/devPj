@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bg">#eeeeee</color>
+    <color name="theme_bg">#fafafa</color>
+    <color name="graybg">#eeeeee</color>
+    <color name="bgfa">#fafafa</color>
+    <color name="actionbarcolor">#323441</color>
+    <color name="actionbarpramary">#262730</color>
+    <color name="actionbardarkpramary">#263238</color>
+
+
+    <color name="blue_grey50">#CACBD0</color>
+    <color name="blue_grey100">#A3A5B1</color>
+    <color name="blue_grey200">#878A99</color>
+    <color name="blue_grey300">#656879</color>
+    <color name="blue_grey400">#4E5162</color>
+    <color name="blue_grey500">#323441</color>
+    <color name="blue_grey600">#262730</color>
+    <color name="blue_grey700">#17181D</color>
+    <color name="blue_grey800">#0D0D10</color>
+    <color name="blue_grey900">#000000</color>
+
+
+    <color name="user_leave_1">@color/white</color>
+    <color name="user_leave_2">@color/blue</color>
+    <color name="user_leave_3">@color/pink</color>
+
+    <color name="chat_out_title">@color/white</color>
+    <color name="chat_out_subtitle">#D8D8D8</color>
+
+    <color name="chat_in_title">@color/txtblack</color>
+    <color name="chat_in_subtitle">#888888</color>
+
+
+    <color name="section_txt">#bec0cc</color>
+    <color name="section_bg">#eff1f6</color>
+    <color name="section_line">#e2e3e8</color>
+
+    <color name="chat_in_press">#aaaaaa</color>
+    <color name="chat_in_normal">#cccccc</color>
+
+    <color name="chat_out_press">@color/blue_grey500</color>
+    <color name="chat_out_normal">@color/blue_grey300</color>
+
+    <color name="txtblack">#313131</color>
+    <color name="txtgray">#757575</color>
+    <color name="txtlingray">#999999</color>
+    <color name="gray">#979797</color>
+    <color name="divdier_line">@color/line</color>
+    <color name="line">#dddddd</color>
+    <color name="setting_line">#cccccc</color>
+    <color name="lightgray">#efefef</color>
+    <!--亮灰色 -->
+
+
+    <color name="myTextPrimaryColor">#424242</color>
+    <color name="myNavigationColor">#000</color>
+    <color name="myWindowBackground">#FFF</color>
+    <color name="themeblue">#13b4f8</color>
+    <color name="colorControlHighlight">#9013b4f8</color>
+    <color name="themedarkblue">#039dde</color>
+
+
+    <color name="laber_line_clolr">#66758E</color>
+
+
+    <color name="teal">#009688</color>
+    <color name="tealdark">#00796B</color>
+    <color name="themeyellow">#FFC107</color>
+    <color name="themeyellowdark">#CFB400</color>
+
+
+    <color name="themepoplur">#7870cc</color>
+    <color name="themegreen">#65c12a</color>
+
+    <color name="jinse">#8B572A</color>
+    <color name="redlight">#ffa6ae</color>
+    <color name="themered">#ff5967</color>
+    <color name="alphathemered">#50ff5967</color>
+    <color name="themereddark">#ee4755</color>
+    <color name="pink">#e91e63</color>
+    <color name="darkpink">#c2185b</color>
+    <color name="red_package_lint">#FE6155</color>
+    <color name="read_package">#F44336</color>
+    <color name="read_package_dark">#F22415</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+
+    <color name="male">#d05082E5</color>
+    <color name="female">#d0e91e63</color>
+
+    <color name="red">#FFC93437</color>
+    <color name="blue">#2962FF</color>
+    <color name="yellow">#FFF7D23E</color>
+
+    <color name="yellow_money">#FF9800</color>
+
+
+    <color name="theme_green">#1CA562</color>
+    <color name="theme_green_color_deep">#004423</color>
+    <color name="theme_green_color_focus">#217f52</color>
+    <color name="theme_green_color_unenable">#8038a973</color>
+
+    <color name="lintgreen">#4EC800</color>
+    <color name="green">#01BC0C</color>
+    <color name="greendark">#009A09</color>
+
+    <color name="left_word">#7e7f7e</color>
+    <color name="left_list_line">#ececec</color>
+
+
+
+    <integer-array name="refrashcolor">
+        <item>@color/pink</item>
+        <item>@color/yellow</item>
+        <item>@color/blue</item>
+    </integer-array>
+
+
+    <drawable name="pressed_gray">#0c666666</drawable>
+
+    <drawable name="show_line">#111111</drawable>
+
+    <drawable name="selected_gray">#2c666666</drawable>
+    <drawable name="white">@color/white</drawable>
+
+    <color name="step_pager_previous_tab_color">#4433b5e5</color>
+    <color name="step_pager_selected_tab_color">#ff0099cc</color>
+    <color name="step_pager_next_tab_color">#10000000</color>
+    <color name="message_shadow_layer">#30000000</color>
+</resources>

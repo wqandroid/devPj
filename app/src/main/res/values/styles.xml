@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue_grey500</item>
+        <item name="colorPrimaryDark">@color/blue_grey600</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+    <style name="DialogProgressbar" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">@color/pink</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">@color/txtblack</item>
+        <!-- Used for the background -->
+        <item name="android:background">@color/transparent</item>
+    </style>
+</resources>
